@@ -22,6 +22,6 @@ looking for. Τhe same message appears again "Do you want to play again?"
 
 In the case of choosing the letter r or R, the computer chooses the word and follows the same procedure as before.
 
-In that case the letter g or G or r or R is not selected, then you can simply choose the length of the word which can be from 3 to 20 letters and the computer will give you one random 
+In the case that letter g or G or r or R is not selected, then you can simply choose the length of the word which can be from 3 to 20 letters and the computer will give you one random 
 word and after that follows the same procedure again.
 <br>
